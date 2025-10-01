@@ -1,0 +1,2 @@
+# CJNG-bot
+STRONA BOTA
